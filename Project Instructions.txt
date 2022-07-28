@@ -1,0 +1,6 @@
+Follow the following steps to create an SQL Host to the application:
+	1. open xampp and start the apache and MySQL.
+	2. Open a browser and go to URL “http://localhost/phpmyadmin/"
+	3. click on databases tab and Create database naming “payrolldb”
+	4. Click on browse file and select “payrolldb.sql” file which is inside “PayrollSystem” folder in the extracted file and after import click “go“.
+	5. Open the project in Visual Studio and start.
